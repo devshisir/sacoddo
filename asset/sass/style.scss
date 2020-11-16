@@ -3,7 +3,7 @@
 
 
 body {
-    font-family: "Noto Kufi Arabic";
+    font-family: 'Cairo', sans-serif;
     background: #F8FAFD;
 }
 .container-fluid{
@@ -39,9 +39,9 @@ main code start here
                     margin: 0px -3px;
                     a{
                         display: block;
-                        font-weight: 600;
+                        font-weight: 700;
                         color: #fff;
-                        font-size: 12px;
+                        font-size: 13px;
                         padding: 20px 20px;
                         border-left: 2px solid #0A2D3E;
                         &:hover{
@@ -88,6 +88,7 @@ main code start here
                         border: none;
                         padding: 7px 45px;
                         border-radius: 30px;
+                        font-weight: 600;
                     }
                     input:focus::placeholder {
                         color: transparent;
@@ -132,14 +133,14 @@ main code start here
                 .left{
                     h4{
                         font-weight: 700;
-                        font-size: 12px;
+                        font-size: 13px;
                         color: $mainColor;
                     }
                 }
                 .right{
                     h3{
                         font-weight: 700;
-                        font-size: 15px;
+                        font-size: 18px;
                         color: $titleColor;
                     }
                     
@@ -149,6 +150,7 @@ main code start here
                         font-size: 14px;
                         color: $title2;
                         margin-top: 8px;
+                        font-weight: 600;
                     }
                 }
             }
@@ -221,6 +223,7 @@ main code start here
                                 color: #fff;
                                 font-size: 13px;
                                 line-height: 24px;
+                                font-weight: 600;
                             }
                         }
                     }
@@ -238,14 +241,14 @@ main code start here
                 .left{
                     h4{
                         font-weight: 700;
-                        font-size: 12px;
+                        font-size: 13px;
                         color: $mainColor;
                     }
                 }
                 .right{
                     h3{
                         font-weight: 700;
-                        font-size: 15px;
+                        font-size: 17px;
                         color: $titleColor;
                     }
                 }
@@ -255,6 +258,7 @@ main code start here
                         font-size: 14px;
                         color: $title2;
                         margin-top: 8px;
+                        font-weight: 600;
                     }
                 }
             }
@@ -339,7 +343,8 @@ main code start here
                             width: 100%;
                             h4{
                                 font-weight: 700;
-                                font-size: 14px;
+                                font-size: 16px;
+                                line-height: 23px;
                                 color: #fff;
                             }
                             ul{
@@ -347,7 +352,7 @@ main code start here
                                 li{
                                     display: inline-block;
                                     color: #fff;
-                                    font-size: 13px;
+                                    font-size: 15px;
                                     margin-left: 5px;
                                     font-weight: 700;
                                     span{
@@ -420,9 +425,10 @@ main code start here
                             width: 100%;
                             padding: 10px 45px 10px 10px;
                             border: none;
-                            font-size: 14px;
+                            font-size: 15px;
                             text-align: right;
                             color: #878787;
+                            font-weight: 600;
                         }
                         .iconDate{
                             position: absolute;
@@ -448,9 +454,10 @@ main code start here
                                 width: 100%;
                                 padding: 10px 45px 10px 10px;
                                 border: none;
-                                font-size: 14px;
+                                font-size: 15px;
                                 text-align: right;
                                 color: #878787;
+                                font-weight: 600;
                             }
                             input:focus::placeholder {
                                 color: transparent;
@@ -533,13 +540,15 @@ main code start here
                             .contentTtitle{
                                 h3{
                                     font-weight: 700;
-                                    font-size: 20px;
+                                    font-size: 22px;
                                     color: #1E2F38;
                                 }
                                 p{
-                                    font-size: 13px;
+                                    font-size: 14px;
                                     color: #878787;
                                     margin-top: 7px;
+                                    font-weight: 600;
+
                                 }
                             }
                         }
@@ -550,6 +559,7 @@ main code start here
                                 h4{
                                     font-size: 14px;
                                     color: #878787;
+                                    font-weight: 600;
                                     i{
                                         margin-left: 4px;
                                         font-size: 18px;
@@ -561,6 +571,7 @@ main code start here
                                     margin-top: 10px;
                                     font-size: 14px;
                                     color: #878787;
+                                    font-weight: 600;
                                     span{
                                         font-weight: 700;
                                         font-size: 20px;
