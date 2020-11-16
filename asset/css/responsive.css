@@ -1,0 +1,296 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+}
+@media (min-width: 1200px) and (max-width: 1314px) {
+    #headerTop .headerRightSearch .searchArea form .inputBox {
+        width: 278px;
+    }
+    #headerTop .headerRightSearch .logoarea a img {
+        height: 36px;
+    }
+    #headerTop .headerRightSearch .logoarea {
+        margin-left: 18px;
+    }
+    #headerTop .headerLeftMenu .mainMenu ul li a {
+        font-size: 11px;
+        padding: 20px 15px;
+    }
+    #mainWrapper .leftPanel .topSlider .toparea .left h4 {
+        font-size: 10px;
+    }
+    #mainWrapper .leftPanel .topSlider .toparea .right h3 {
+        font-size: 13px;
+    }
+    #mainWrapper .leftPanel .topSlider .toparea .right p {
+        font-size: 11px;
+        margin-top: 8px;
+    }
+    #mainWrapper .leftPanel .topSlider .sliderarea .leftPanelTopsliderActive .topsliderItem .bottomContentSlider p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .left h4 {
+        font-size: 10px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .right h3 {
+        font-size: 13px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .topBottom p {
+        font-size: 12px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea {
+        padding: 0px 18px;
+        padding-bottom: 20px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .owl-nav .owl-prev {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        top: 35%;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .owl-nav .owl-next {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        top: 35%;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .leftpanelBottomSliderItem .bottomContentSLider h4 {
+        font-size: 10px;
+        line-height: 16px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .leftpanelBottomSliderItem .bottomContentSLider {
+        padding: 0px 6px 0px 17px;
+        width: 100%;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .leftpanelBottomSliderItem .bottomContentSLider ul li {
+        font-size: 11px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul .serchBtn a {
+        height: 50px;
+        width: 54px;
+        line-height: 53px;
+        font-size: 17px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul li {
+        margin-right: 6px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul li a {
+        font-size: 17px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .toparea .contentStar ul li {
+        font-size: 14px;
+        margin: 0px -2px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .toparea .contentTtitle h3 {
+        font-size: 17px;
+    }
+}
+
+
+@media (min-width: 1315px) and (max-width: 1400px) {
+    #headerTop .headerRightSearch .searchArea form .inputBox {  
+        width: 332px;
+    }
+    #headerTop .headerRightSearch .logoarea a img {
+        height: 36px;
+    }
+    #headerTop .headerRightSearch .logoarea {
+        margin-left: 18px;
+    }
+    #headerTop .headerLeftMenu .mainMenu ul li a {
+        font-size: 11px;
+        padding: 20px 15px;
+    }
+    #mainWrapper .leftPanel .topSlider .toparea .left h4 {
+        font-size: 10px;
+    }
+    #mainWrapper .leftPanel .topSlider .toparea .right h3 {
+        font-size: 13px;
+    }
+    #mainWrapper .leftPanel .topSlider .toparea .right p {
+        font-size: 11px;
+        margin-top: 8px;
+    }
+    #mainWrapper .leftPanel .topSlider .sliderarea .leftPanelTopsliderActive .topsliderItem .bottomContentSlider p {
+        font-size: 12px;
+        line-height: 21px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .left h4 {
+        font-size: 10px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .right h3 {
+        font-size: 13px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .topBottom p {
+        font-size: 12px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea {
+        padding: 0px 18px;
+        padding-bottom: 20px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .owl-nav .owl-prev {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        top: 35%;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .owl-nav .owl-next {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        top: 35%;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .leftpanelBottomSliderItem .bottomContentSLider h4 {
+        font-size: 10px;
+        line-height: 16px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .leftpanelBottomSliderItem .bottomContentSLider {
+        padding: 0px 6px 0px 17px;
+        width: 100%;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .leftpanelBottomSliderItem .bottomContentSLider ul li {
+        font-size: 11px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul .serchBtn a {
+        height: 50px;
+        width: 54px;
+        line-height: 53px;
+        font-size: 17px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul li {
+        margin-right: 6px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul li a {
+        font-size: 17px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .toparea .contentStar ul li {
+        font-size: 14px;
+        margin: 0px -2px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .toparea .contentTtitle h3 {
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 1401px) and (max-width: 1699px) {
+    #headerTop .headerRightSearch .searchArea form .inputBox {
+        width: 362px;
+    }
+    #headerTop .headerRightSearch .logoarea a img {
+        height: 36px;
+    }
+    #mainWrapper .leftPanel .topSlider .sliderarea .leftPanelTopsliderActive .topsliderItem .bottomContentSlider {
+        padding: 0px 12px;
+    }
+    #mainWrapper .leftPanel .topSlider .sliderarea .leftPanelTopsliderActive .topsliderItem .bottomContentSlider p {
+        font-size: 10px;
+        line-height: 21px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .topBottom p {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea {
+        padding: 0px 9px;
+        padding-bottom: 20px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .owl-nav .owl-prev {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        left: -7px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .owl-nav .owl-next {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        right: -7px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .sliderarea .leftpanelBottomSliderActive .leftpanelBottomSliderItem .bottomContentSLider h4 {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul li {
+        margin-right:8px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul .serchBtn a {
+        height: 53px;
+        width: 58px;
+        line-height: 53px;
+        font-size: 17px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul li a {
+        font-size: 17px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .toparea .contentTtitle h3 {
+        font-size: 17px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .bottomArea .bottomContent h3 span {
+        font-size: 17px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+   
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+
+@media (max-width: 767px) {
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
