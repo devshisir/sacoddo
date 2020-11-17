@@ -13,9 +13,10 @@ $(document).ready(function () {
         navText: ['<i class="far fa-arrow-left"></i>','<i class="far fa-arrow-right"></i>'],
         responsive:{
             0:{
-                items:1
+                items:1,
+                stagePadding: 50,
             },
-            600:{
+            576:{
                 items:1
             },
             1000:{
@@ -61,9 +62,33 @@ $(document).ready(function () {
 
     $("#dateInoutfild").flatpickr();
     $("#dateInoutfild2").flatpickr();
+    $("#dateInoutfild3").flatpickr();
+    $("#dateInoutfild4").flatpickr();
+
+
+    $('.menutoggleBar span').on('click',function(){
+        $('#mobile_menuContent').toggleClass('show');
+    })
+
+    $('.menuTopClose').on('click',function(){
+        $('#mobile_menuContent').toggleClass('show');
+    })
+    
+
+    $(window).scroll(function(){
+        if ($(window).scrollTop() >= 100) {
+            $('#headerTop').addClass('fixed animate__animated animate__slideInDown');
+            $('#mobileHeder').addClass('fixed animate__animated animate__slideInDown');
+        }
+        else {
+            $('#headerTop').removeClass('fixed animate__animated animate__slideInDown');
+            $('#mobileHeder').removeClass('fixed animate__animated animate__slideInDown');
+        }
+    });
 
 
 
+     
 
 
 

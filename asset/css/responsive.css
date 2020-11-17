@@ -266,7 +266,71 @@
 
 /* Extra small Device. */
 @media (max-width: 575px) {
-    
+    #headerTop{
+        display: none;
+    }
+    #mobileHeder{
+        display: block;
+    }
+    .container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    #mainWrapper .leftPanel .topSlider .toparea .left h4 {
+        font-size: 11px;
+    }
+    #mainWrapper .leftPanel .topSlider .toparea .right h3 {
+        font-size: 14px;
+    }
+    #mainWrapper .leftPanel .topSlider .toparea .bottomTitle p {
+        font-size: 12px;
+        margin-top: 3px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .left h4 {
+        font-size: 11px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .right h3 {
+        font-size: 15px;
+    }
+    #mainWrapper .leftPanel .bottomSlider .toparea .topBottom p {
+        font-size: 11px;
+        margin-top: -3px;
+    }
+    .rightPanelMainarea {
+        margin-top: 30px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul .serchBtn{
+        background-color: #2BBBB4;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch .left ul .serchBtn a {
+        height: 43px;
+        width: 51px;
+        line-height: 44px;
+        font-size: 15px;
+    }
+    #mainWrapper .rightPanelMainarea .topsearch{
+        display: none;
+    }
+    #mainWrapper .rightPanelMainarea .topsearchMobilearea{
+        display: block;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .toparea .contentStar ul li {
+        font-size: 12px;
+        margin: 0px -1px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .toparea {
+        padding: 15px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .toparea .contentTtitle h3 {
+        font-size: 17px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .toparea .contentTtitle p {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+    #mainWrapper .rightPanelMainarea .searchResulBoxMain .searchResulBoxContent .item .bottomContet .bottomArea .bottomContent h4 {
+        font-size: 13px;
+    }
 }
 
 
